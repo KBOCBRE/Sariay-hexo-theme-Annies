@@ -155,6 +155,7 @@ Other open source...
 (All Rights Reserved by Them)
 
 
-TODO
- 模板文件中的中文字符提取, 支持 i18n
- 增加分享 widget
+# TODO
+- [] comment
+- [] toc
+- [] ...
