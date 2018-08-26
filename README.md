@@ -131,13 +131,23 @@ cd themes/Annie
 git pull
 ```
 
+# Other
+
+Feedback: [issues]()
+
+Like: [star]()
+
+Develop: [fork]()
 
 # Thanks
-<list>
- <ul>
-[hexo-generator-search-zip]https://github.com/SuperKieran/hexo-generator-search-zip by [Kieran]https://github.com/SuperKieran/hexo-generator-search-zip
-</ul>
-<ul>
+
+[hexo-generator-search-zip](https://github.com/SuperKieran/hexo-generator-search-zip) by [Kieran](https://github.com/SuperKieran/hexo-generator-search-zip)
+
 Amaze UI
-<ul>
-</list>
+
+[Menu plugin](http://www.htmleaf.com/jQuery/Menu-Navigation/20141212771.html)
+
+Other open source...
+
+(All Rights Reserved by Them)
+
