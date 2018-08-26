@@ -1,7 +1,7 @@
 # hexo-theme-Annie
 Annie is a simple theme for Hexo, [PREVIEW](https://github.com/)
 
-<img src="https://github.com/Sariay/hexo-theme-Annie/source/img/poem2.jpg" class="full-image" />
+<img src="https://github.com/Sariay/hexo-theme-Annie/blob/master/source/img/poem1.png" class="full-image" />
 
 # Install & Use
 ```
