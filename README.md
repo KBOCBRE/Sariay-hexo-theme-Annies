@@ -133,11 +133,11 @@ git pull
 
 # Other
 
-Feedback: [issues]()
+Feedback: [issues](https://github.com/Sariay/hexo-theme-Annie/issues)
 
-Like: [star]()
+Like: [star](https://github.com/Sariay/hexo-theme-Annie/star)
 
-Develop: [fork]()
+Develop: [fork](https://github.com/Sariay/hexo-theme-Annie/fork)
 
 # Thanks
 
