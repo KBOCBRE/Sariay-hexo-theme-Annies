@@ -3,7 +3,7 @@ Annie is a simple theme for Hexo. If you like literature and poetry, it might su
 
 <img src="https://github.com/Sariay/hexo-theme-Annie/blob/master/source/img/poem1.png" class="full-image" />
 
-# Install & Use
+**Install & Use**
 ```
 git clone https://github.com/Sariay/hexo-theme-Annie.git
 ```
@@ -46,7 +46,7 @@ cover: img/cart_cover.jpg
 #page
 page_name:
     enable: true
-
+h
 #post
 #post_comment
 comment:
