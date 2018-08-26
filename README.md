@@ -135,9 +135,9 @@ git pull
 
 Feedback: [issues](https://github.com/Sariay/hexo-theme-Annie/issues)
 
-Like: [star](https://github.com/Sariay/hexo-theme-Annie/Star)
+Like: [star](https://github.com/Sariay/hexo-theme-Annie)
 
-Develop: [fork](https://github.com/Sariay/hexo-theme-Annie/Fork)
+Develop: [fork](https://github.com/Sariay/hexo-theme-Annie/fork)
 
 # Thanks
 
