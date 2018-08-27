@@ -102,7 +102,9 @@ img {
 }
 
 video {
-	max-width: 100%;
+	display: block;
+	width: 100%;
+	height: auto;
 }
 
 /*footor*/
