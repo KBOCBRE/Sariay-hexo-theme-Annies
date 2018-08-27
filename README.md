@@ -149,7 +149,7 @@ git pull
 
 ### Other
 
-Feedback: [issues](https://github.com/Sariay/hexo-theme-Annie/issues)
+Feedback: [issues](https://github.com/Sariay/hexo-theme-Annie/issues) | email：1261347403@qq.com
 
 Like: [star](https://github.com/Sariay/hexo-theme-Annie)
 
