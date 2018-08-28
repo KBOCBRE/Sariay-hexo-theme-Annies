@@ -137,7 +137,7 @@ git pull
 
 ### 其他方面
 
-如果你有问题反馈（Feedback）: [issues](https://github.com/Sariay/hexo-theme-Annie/issues) | email：1261347403@qq.com
+如果你有问题反馈（Feedback）: [issues](https://github.com/Sariay/hexo-theme-Annie/issues) | 1261347403@qq.com
 
 如果你喜欢该主题（Like）: [star](https://github.com/Sariay/hexo-theme-Annie)
 
@@ -145,8 +145,10 @@ git pull
 
 ### Todo
 
-- [ ] Comment
-- [ ] Toc
+- [ ] 评论（comment）
+- [ ] 目录（toc）
+- [ ] 相册（gallery）
+- [ ] 谷歌统计（google）
 - [ ] ...
 
 ### Thanks
