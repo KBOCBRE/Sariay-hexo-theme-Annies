@@ -3,8 +3,6 @@ Annie is a simple theme for Hexo. If you like literature and poetry, it might su
 
 <img src="https://github.com/Sariay/hexo-theme-Annie/blob/master/source/img/poem1.png" class="full-image" />
 
-
-
 ### 安装&启用
 
 ```
@@ -12,12 +10,11 @@ git clone https://github.com/Sariay/hexo-theme-Annie.git
 ```
 then modify theme in ```_config.yml``` to Annie
 
-
-
 ### 配置-1
 
-Theme _config.yml
 ```
+# 主题目录下的_config.yml文件
+
 # Header
 menu:
     主页: /
@@ -102,17 +99,15 @@ love:
     enable: false
 ```
 
-
-
 ### 配置-2
-
-Hexo _config.yml
 
 **enable seach** please install hexo plugin ```hexo-generator-search-zip``` at first.
 ```
 $ npm install hexo-generator-search-zip --save
 ```
 ```
+#站点目录下的_config.yml文件
+
 search:
   path: search.json
   zipPath: search.zip
@@ -121,20 +116,15 @@ search:
   #field: post, page or all
 ```
 
-
-
 ### 配置-3
-
-**post front-matter**
+文章模板样例
 ```
 title: {{ title }}
 date: {{ date }}
 cover: https://.../
-categories: 1
-tags: 1
+categories: categories
+tags: tags
 ```
-
-
 
 ### 更新主题
 
@@ -145,25 +135,19 @@ cd themes/Annie
 git pull
 ```
 
-
-
 ### 其他方面
 
-Feedback: [issues](https://github.com/Sariay/hexo-theme-Annie/issues) | email：1261347403@qq.com
+如果你有问题反馈（Feedback）: [issues](https://github.com/Sariay/hexo-theme-Annie/issues) | email：1261347403@qq.com
 
-Like: [star](https://github.com/Sariay/hexo-theme-Annie)
+如果你喜欢该主题（Like）: [star](https://github.com/Sariay/hexo-theme-Annie)
 
-Develop: [fork](https://github.com/Sariay/hexo-theme-Annie/fork)
-
-
+如果你想定制主题（Develop）: [fork](https://github.com/Sariay/hexo-theme-Annie/fork)
 
 ### Todo
 
 - [ ] Comment
 - [ ] Toc
 - [ ] ...
-
-
 
 ### Thanks
 
