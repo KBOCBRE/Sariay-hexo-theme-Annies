@@ -5,7 +5,7 @@ Annie is a simple theme for Hexo. If you like literature and poetry, it might su
 
 
 
-### Install & Use
+### 安装&启用
 
 ```
 git clone https://github.com/Sariay/hexo-theme-Annie.git
@@ -14,7 +14,7 @@ then modify theme in ```_config.yml``` to Annie
 
 
 
-### Config1
+### 配置-1
 
 Theme _config.yml
 ```
@@ -104,7 +104,7 @@ love:
 
 
 
-### Config2
+### 配置-2
 
 Hexo _config.yml
 
@@ -123,7 +123,7 @@ search:
 
 
 
-### Config3
+### 配置-3
 
 **post front-matter**
 ```
@@ -136,7 +136,7 @@ tags: 1
 
 
 
-### Update
+### 更新主题
 
 To execute the following command simply.
 
@@ -147,7 +147,7 @@ git pull
 
 
 
-### Other
+### 其他方面
 
 Feedback: [issues](https://github.com/Sariay/hexo-theme-Annie/issues) | email：1261347403@qq.com
 
