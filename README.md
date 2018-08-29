@@ -139,7 +139,7 @@ git pull
 
 如果你有问题反馈（Feedback）: [issues](https://github.com/Sariay/hexo-theme-Annie/issues) | 1261347403@qq.com（你可以先在[issues](https://github.com/Sariay/hexo-theme-Annie/issues)中寻找答案）
 
-如果你喜欢该主题（Like）: [star](https://github.com/Sariay/hexo-theme-Annie)
+如果你喜欢该主题（Like）: [star](https://github.com/Sariay/hexo-theme-Annie)（[star](https://github.com/Sariay/hexo-theme-Annie)越多，更新的动力越大）
 
 如果你想定制主题（Develop）: [fork](https://github.com/Sariay/hexo-theme-Annie/fork)
 
