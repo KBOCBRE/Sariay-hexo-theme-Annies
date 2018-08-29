@@ -1,5 +1,5 @@
 # hexo-theme-Annie
-Annie is a simple theme for Hexo. If you like literature and poetry, it might suit you!  [预览 | PREVIEW](https://sariay.github.io/)
+Annie is a simple theme for Hexo. If you like literature and poetry, it might suit you!  [预览 | PREVIEW](https://sariay.github.io/2018/08/27/Annie主题使用说明/)
 
 <img src="https://github.com/Sariay/hexo-theme-Annie/blob/master/source/img/poem1.png" class="full-image" />
 
